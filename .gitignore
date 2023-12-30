@@ -26,3 +26,6 @@ backend_build
 STATIC/marketpulse
 timeTracker.json
 *.pyc
+
+
+git remote add upstream https://github.com/monika7896/ProjectDec.git
